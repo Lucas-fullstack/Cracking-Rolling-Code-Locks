@@ -67,7 +67,7 @@ Performance: Processes ~10M seeds/second on RTX 3090
 ```
 
 ## License 📜
-MIT License - See LICENSE
+MIT License - See [LICENSE](https://github.com/Lucas-fullstack/Cracking-Rolling-Code-Locks/blob/main/LICENSE)
 
 Pro Tip: For large searches (>1B seeds), use --save to checkpoint progress!
 
@@ -83,11 +83,3 @@ Emoji headers for quick scanning
 Code blocks for commands/output
 
 Clear section separation
-
-Would you like me to add any specific details about:
-
-The mathematical foundation of the PRNG?
-
-Benchmark comparisons?
-
-Troubleshooting tips?
