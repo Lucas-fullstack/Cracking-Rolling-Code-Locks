@@ -17,9 +17,8 @@ A high-performance tool to reverse-engineer seeds from pseudorandom number gener
 ## Installation 🛠️
 
 ```bash
-git clone https://github.com/yourusername/prng-seed-finder.git
+git clone https://github.com/Lucas-fullstack/Cracking-Rolling-Code-Locks.git
 cd prng-seed-finder
-pip install -r requirements.txt
 GPU Requirements (Optional):
 NVIDIA GPU + CuPy (pip install cupy-cuda11x)
 ```
