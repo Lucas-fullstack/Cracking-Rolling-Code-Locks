@@ -18,7 +18,7 @@ A high-performance tool to reverse-engineer seeds from pseudorandom number gener
 
 ```bash
 git clone https://github.com/Lucas-fullstack/Cracking-Rolling-Code-Locks.git
-cd prng-seed-finder
+cd Cracking-Rolling-Code-Locks
 GPU Requirements (Optional):
 NVIDIA GPU + CuPy (pip install cupy-cuda11x)
 ```
